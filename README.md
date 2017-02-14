@@ -1,1 +1,3 @@
-# min-rpg
+# Minimal RPG
+
+Content to be added.
